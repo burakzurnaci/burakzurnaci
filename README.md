@@ -5,7 +5,7 @@
 
 - ✨ I’m currently using **Luna** tool to develop playable games through Unity.
 
-- ⚡ A social creature with 22 years of gaming history 🎮**
+- ⚡ A social creature with 22 years of gaming history 🎮
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
